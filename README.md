@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=44&pause=500&color=00CED1&center=true&vCenter=true&width=1100&height=130&lines=FRAGPUNK+HACK+2026;AIMBOT+%7C+ESP+%7C+TRIGGERBOT;DOMINATE+THE+ARENA" alt="FragPunk Hack 2026" />
+<img width="1691" height="1139" alt="image" src="https://github.com/user-attachments/assets/94642b20-e2ab-4ea6-bac5-7369cf96c0a2" />
 
 <br/>
 
